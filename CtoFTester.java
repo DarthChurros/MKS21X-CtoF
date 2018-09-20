@@ -1,6 +1,7 @@
 public class CtoFTester {
   public static void main (String [] args) {
-    //function calls here
+    System.out.println ("35ºC in Fahrenheit is " + celsiusToFahrenheit(35) + "ºF.");
+    System.out.println ("86ºC in Fahrenheit is " + celsiusToFahrenheit(86) + "ºC.");
   }
 }
 
